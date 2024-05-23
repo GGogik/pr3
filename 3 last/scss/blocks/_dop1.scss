@@ -1,0 +1,30 @@
+.dop1__separation{
+display: flex;
+padding: 50px 120px;
+height: 300px;
+margin-bottom: 60px;
+
+}
+.dop1__column1{
+display: flex;
+flex-direction: column;
+margin: auto;
+gap: 30px;
+}
+.dop1__img{
+width: 40%;
+}
+.dop1__txt1{
+font-family: montserrat;
+font-size: 35px;
+font-weight: 800;
+}
+.dop1__txt2{
+font-family: montserrat;
+font-weight: 600;
+}
+.dop1__link{
+font-family: montserrat;
+text-decoration: none;
+color: blue;
+}

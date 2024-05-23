@@ -1,0 +1,41 @@
+.estamos{
+width: 1024px;
+height: 400px;
+margin: auto;
+background-color: rgba(16, 15, 168, 1);
+display: flex;
+gap: 20px;
+}
+.estamos__column{
+display: flex;
+flex-direction: column;
+gap: 30px;
+margin: auto;
+width: 50%;
+margin-left: 50px;
+}
+.estamos__txt1{
+font-family: montserrat;
+font-size: 50px;
+color: white;
+}
+.estamos__txt2{
+font-family: montserrat;
+font-size: 20px;
+color: white;
+}
+.estamos__img{
+width: 40%;
+display: flex;
+margin: auto;
+margin-bottom: 0px;
+margin-right: 50px;
+}
+.estamos__link{
+font-family: montserrat;
+font-size: 20px;
+background-color: aliceblue;
+border-radius: 10px;
+padding: 15px 40px;
+text-decoration: none;
+}
